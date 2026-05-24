@@ -465,7 +465,6 @@ Promt: How to make a 2 columns layout using CSS?
 .product_detail_image img {
     width:100%;
     max-width: 35rem;
-    min-width:25rem;
     position: sticky;
     top: 2rem;
 }
@@ -563,7 +562,6 @@ Promt: How to change to color for a radip button after it is selected using CSS?
 
 .individual_item_img img{
     width:70%;
-    min-width:16rem;
 }
 
 .individual_item_detail{
