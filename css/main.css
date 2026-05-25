@@ -270,7 +270,7 @@ section {
     transition: 0.3s;
 }
 
-.payment_button_group {
+.button_group {
     display: flex;
     flex-direction: column;
     gap: 1rem;
